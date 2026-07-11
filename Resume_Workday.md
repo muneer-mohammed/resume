@@ -181,21 +181,6 @@ Implemented OAuth, OIDC, and WebView2-based authentication patterns. Achieved SO
 **Reliability & Observability**
 Implemented comprehensive logging and monitoring using Application Insights. Established incident response processes reducing MTTR by 30%. Designed resilient systems with circuit breakers, retry logic, and graceful degradation.
 
----
-
-## Awards & Recognition
-
-**Technical Excellence Award (Planful, 2022)**
-Recognized for platform modernization leadership, innovative architecture design, and exceptional quality contributions.
-
-**Engineering Leadership Award (EPAM, 2024)**
-Recognized for building high-performing engineering teams, establishing technical standards, and mentoring emerging leaders.
-
-**Campus Hiring Excellence (Kofax, 2018)**
-Recognized for establishing technical interview standards, identifying top talent, and building scalable hiring program.
-
-**Innovation Award (Planful, 2023)**
-Recognized for pioneering LLM integration and establishing AI-assisted development workflows.
 
 ---
 
@@ -203,19 +188,6 @@ Recognized for pioneering LLM integration and establishing AI-assisted developme
 
 **Bachelor of Technology in Computer Science & Engineering**
 Aurora's Technological and Research Institute, Hyderabad | 2007–2011 | Distinction
-
----
-
-## Certifications
-
-**Completed**
-- Azure Developer Associate (AZ-204)
-- Azure Solutions Architect Expert (AZ-305)
-- Scrum Master (PSM-1)
-
-**In Progress**
-- AWS Solutions Architect – Professional
-- Certified Kubernetes Administrator (CKA)
 
 ---
 
