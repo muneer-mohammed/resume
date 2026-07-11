@@ -120,7 +120,3 @@ Aurora's Engineering College, JNTU Hyderabad (2007–2011)
 - Spot Award – Google Sheets Add-in POC
 - Best Performer Award – Kore
 - CUBIC Venus Award for Excellence
-
-## Certifications
-
-- Add Microsoft, Azure, AI, or Kubernetes certifications as completed.
