@@ -2,7 +2,7 @@
 
 **Engineering Leader | Lead Software Engineer**
 
-📍 Hyderabad, India | 📧 mohd.muneer89@gmail.com | 📞 +91 9392692454
+Hyderabad, India | mohd.muneer89@gmail.com | +91 9392692454 | linkedin.com/in/muneer-mohammed89/
 
 ---
 
@@ -12,43 +12,33 @@ Accomplished engineering leader with 15+ years of hands-on experience architecti
 
 ---
 
-## Skills
+## Skills & Expertise
 
-**Technical Leadership & Architecture**
-Microservices architecture, distributed systems design, cloud-native architecture, event-driven design, API design, SOLID principles, TDD, platform modernization, system design, technology selection, code quality standards
+Technical Leadership: Microservices architecture, distributed systems design, cloud-native architecture, event-driven design, API design, SOLID principles, TDD, platform modernization, system design, technology selection, code quality standards
 
-**People & Engineering Leadership**
-Team building, technical hiring, performance management, mentoring, career development, resource allocation, 1:1 management, agile delivery, stakeholder management, engineering culture
+People Leadership: Team building, technical hiring, performance management, mentoring, career development, resource allocation, 1:1 management, agile delivery, stakeholder management, engineering culture
 
-**Programming Languages**
-C# (15+ years primary), C++, JavaScript, VB.NET, T-SQL
+Programming Languages: C# (15+ years primary), C++, JavaScript, VB.NET, T-SQL
 
-**Frameworks & Platforms**
-.NET 8, ASP.NET Core, WebForms, WCF, WPF, WinForms, VSTO, Office Add-ins
+Frameworks & Platforms: .NET 8, ASP.NET Core, WebForms, WCF, WPF, WinForms, VSTO, Office Add-ins
 
-**Cloud & Infrastructure**
-Azure (Service Bus, Functions, Logic Apps, Cosmos DB, Container Registry), AWS (S3, EC2), Docker, Kubernetes
+Cloud & Infrastructure: Azure (Service Bus, Functions, Logic Apps, Cosmos DB, Container Registry), AWS (S3, EC2), Docker, Kubernetes
 
-**Databases & Data**
-SQL Server, PostgreSQL, Redis, SQLite, Entity Framework, LINQ, query optimization, indexing strategies, stored procedures
+Databases & Data: SQL Server, PostgreSQL, Redis, SQLite, Entity Framework, LINQ, query optimization, indexing strategies, stored procedures
 
-**Messaging & Integration**
-RabbitMQ, MassTransit, Azure Service Bus, Event Sourcing, CQRS, Saga pattern, event-driven architecture
+Messaging & Integration: RabbitMQ, MassTransit, Azure Service Bus, Event Sourcing, CQRS, Saga pattern, event-driven architecture
 
-**AI & Modern Development**
-OpenAI, Azure OpenAI, Claude, GitHub Copilot, LLM integration, prompt engineering, RAG, code generation, documentation automation
+AI & Modern Development: OpenAI, Azure OpenAI, Claude, GitHub Copilot, LLM integration, prompt engineering, RAG, code generation, documentation automation
 
-**DevOps & Tooling**
-CI/CD, GitHub Actions, Azure DevOps, ClickOnce, InstallShield, WIX installers, deployment automation, multi-region deployment
+DevOps & Tooling: CI/CD, GitHub Actions, Azure DevOps, ClickOnce, InstallShield, WIX installers, deployment automation, multi-region deployment
 
-**Testing & Quality**
-NUnit, Moq, MSTest, integration testing, performance testing, code coverage tracking, continuous quality monitoring
+Testing & Quality: NUnit, Moq, MSTest, integration testing, performance testing, code coverage tracking, continuous quality monitoring
 
 ---
 
 ## Professional Experience
 
-**EPAM Systems, Hyderabad**
+EPAM Systems, Hyderabad
 Lead Software Engineer | December 2023 – Present
 
 Architected and delivered enterprise solutions combining distributed systems expertise with people leadership. Managed up to five engineers across multiple technical initiatives. Established engineering standards and mentored team members through architectural discussions and code reviews.
@@ -67,7 +57,7 @@ Technologies: .NET 8, ASP.NET Core, C#, Azure (Service Bus, Functions, Logic App
 
 ---
 
-**Planful India, Hyderabad**
+Planful India, Hyderabad
 Lead Software Engineer | January 2020 – December 2023
 
 Led technical delivery of FP&A platform enhancements while establishing engineering excellence standards. Managed team of three engineers. Pioneered VSTO add-in modernization and delivered Google Sheets integration from POC to production.
@@ -85,7 +75,7 @@ Technologies: C#, .NET Framework, .NET Core, ASP.NET Core, VSTO, Azure (Logic Ap
 
 ---
 
-**Kofax India, Hyderabad**
+Kofax India, Hyderabad
 Senior Software Engineer, Scrum Master | May 2016 – January 2020
 
 Led technical design and delivery of document capture systems serving enterprise customers. Served as Scrum Master facilitating agile ceremonies and delivery coordination. Managed team of two to four engineers.
@@ -103,7 +93,7 @@ Technologies: C#, .NET Framework, ASP.NET, WinForms, SQL Server, RabbitMQ, Event
 
 ---
 
-**Kore Software Services, Bangalore**
+Kore Software Services, Bangalore
 Senior Software Engineer | October 2013 – April 2016
 
 Designed and delivered enterprise messaging and identity management solutions. Implemented Office Add-ins and system integration projects for enterprise customers.
@@ -119,7 +109,7 @@ Technologies: C#, .NET Framework, VSTO, WCF, WPF, OAuth, OIDC, ADFS, SQL Server,
 
 ---
 
-**Cubic Transportation Systems, Hyderabad**
+Cubic Transportation Systems, Hyderabad
 Software Engineer | May 2011 – October 2013
 
 Developed embedded systems and desktop applications for transportation ticketing solutions. Built smart card readers and fare collection systems.
@@ -136,21 +126,21 @@ Technologies: C++, MFC, Windows CE, C#, .NET Framework, SQL Server
 
 ## Engineering Leadership & Contributions
 
-**Technical Leadership**
+Technical Leadership
 - Established SOLID principles, TDD, and code quality standards across multiple teams
 - Designed modular, scalable architectures enabling independent feature delivery and reducing time-to-market
 - Pioneered LLM integration into SDLC workflows; implemented GitHub Copilot and custom AI agents for code generation and documentation automation
 - Led platform modernization initiatives transforming legacy systems into cloud-native microservices
 - Established comprehensive CI/CD pipelines reducing manual errors and enabling controlled deployments
 
-**People Leadership**
+People Leadership
 - Built and scaled engineering teams; managed hiring, onboarding, performance management, and career development
 - Conducted 250+ technical interviews across multiple disciplines; established hiring standards and assessment frameworks
 - Mentored approximately 10 engineers through architectural discussions, code reviews, and pair programming; promoted 4 to senior roles
 - Established 1:1 meeting cadence with direct reports; focused on career growth, skill development, and performance alignment
 - Led quarterly performance reviews and goal setting; aligned individual objectives with business outcomes
 
-**Delivery & Execution**
+Delivery & Execution
 - Served as Scrum Master facilitating sprint ceremonies, managing delivery coordination, and improving team velocity
 - Delivered mission-critical projects on time and within budget; managed stakeholder expectations and communicated risks proactively
 - Implemented zero-downtime deployment strategies enabling controlled rollouts and instant rollback capabilities
@@ -160,25 +150,25 @@ Technologies: C++, MFC, Windows CE, C#, .NET Framework, SQL Server
 
 ## Major Technical Achievements
 
-**Platform Modernization**
+Platform Modernization
 Orchestrated migration of legacy WebForms-based enterprise platform to .NET Core microservices with REST APIs. Reduced platform complexity, enabled independent feature delivery, and improved deployment frequency from weekly to daily with 80% reduction in deployment time. Established modular architecture enabling parallel feature development.
 
-**Event-Driven Architecture**
+Event-Driven Architecture
 Designed and implemented event-driven systems using MassTransit with RabbitMQ and Azure Service Bus. Decoupled services, enabled reliable asynchronous processing with guaranteed message delivery, and implemented saga pattern for distributed transactions. Reduced coupling and improved system resilience.
 
-**Performance Optimization**
+Performance Optimization
 Implemented query optimization, distributed caching with Redis, and strategic indexing on high-volume transaction systems. Improved API response times by 35%, reduced database load by 50%, and supported 10x transaction growth on mission-critical platforms.
 
-**Cloud-Native Architecture**
+Cloud-Native Architecture
 Designed multi-tenant systems leveraging Azure services (Service Bus, Functions, Logic Apps, Cosmos DB). Implemented auto-scaling, multi-region deployment, and disaster recovery patterns ensuring 99.2%+ uptime. Reduced infrastructure costs by 30% through resource optimization.
 
-**AI & LLM Integration**
+AI & LLM Integration
 Architected secure LLM integration enabling AI-assisted workflows in enterprise applications. Integrated OpenAI, Azure OpenAI, and Claude APIs. Implemented GitHub Copilot and custom AI agents for code generation, documentation automation, and architectural recommendations. Reduced manual coding effort by 25%.
 
-**Security & Compliance**
+Security & Compliance
 Implemented OAuth, OIDC, and WebView2-based authentication patterns. Achieved SOX and HIPAA compliance through event sourcing and audit trails. Modernized legacy ADFS systems improving security posture and user experience.
 
-**Reliability & Observability**
+Reliability & Observability
 Implemented comprehensive logging and monitoring using Application Insights. Established incident response processes reducing MTTR by 30%. Designed resilient systems with circuit breakers, retry logic, and graceful degradation.
 
 
@@ -193,21 +183,21 @@ Aurora's Technological and Research Institute, Hyderabad | 2007–2011 | Distinc
 
 ## Keywords
 
-**Leadership:** Engineering Leadership, Technical Leadership, People Management, Team Building, Technical Hiring, Performance Management, Mentoring, Resource Allocation, Agile Leadership, Scrum Master
+Leadership: Engineering Leadership, Technical Leadership, People Management, Team Building, Technical Hiring, Performance Management, Mentoring, Resource Allocation, Agile Leadership, Scrum Master
 
-**Architecture:** Microservices Architecture, Distributed Systems, Cloud-Native Architecture, Event-Driven Design, API Design, SOLID Principles, Platform Modernization, System Design, Technology Selection, Scalability
+Architecture: Microservices Architecture, Distributed Systems, Cloud-Native Architecture, Event-Driven Design, API Design, SOLID Principles, Platform Modernization, System Design, Technology Selection, Scalability
 
-**Development:** C#, .NET, ASP.NET Core, Azure, Cloud Development, API Development, Full-Stack Development, SDLC, Code Quality, Technical Standards
+Development: C#, .NET, ASP.NET Core, Azure, Cloud Development, API Development, Full-Stack Development, SDLC, Code Quality, Technical Standards
 
-**AI/Modern:** LLM Integration, AI-Assisted Development, GitHub Copilot, Prompt Engineering, OpenAI, Azure OpenAI, Claude, Code Generation, RAG
+AI/Modern: LLM Integration, AI-Assisted Development, GitHub Copilot, Prompt Engineering, OpenAI, Azure OpenAI, Claude, Code Generation, RAG
 
-**Cloud & DevOps:** Azure (Service Bus, Functions, Logic Apps, Cosmos DB), AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Azure DevOps, Deployment Automation
+Cloud & DevOps: Azure (Service Bus, Functions, Logic Apps, Cosmos DB), AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Azure DevOps, Deployment Automation
 
-**Databases:** SQL Server, PostgreSQL, Entity Framework, Query Optimization, Distributed Caching, Redis, Database Design, Indexing Strategies
+Databases: SQL Server, PostgreSQL, Entity Framework, Query Optimization, Distributed Caching, Redis, Database Design, Indexing Strategies
 
-**Patterns & Practices:** Design Patterns, CQRS, Event Sourcing, Saga Pattern, TDD, Event-Driven Architecture, Microservices, REST APIs, Integration Patterns
+Patterns & Practices: Design Patterns, CQRS, Event Sourcing, Saga Pattern, TDD, Event-Driven Architecture, Microservices, REST APIs, Integration Patterns
 
-**Domain Expertise:** Enterprise Applications, Platform Modernization, Document Capture, Add-in Development, FP&A Systems, Transportation Systems, High-Volume Transaction Processing
+Domain Expertise: Enterprise Applications, Platform Modernization, Document Capture, Add-in Development, FP&A Systems, Transportation Systems, High-Volume Transaction Processing
 
 ---
 
